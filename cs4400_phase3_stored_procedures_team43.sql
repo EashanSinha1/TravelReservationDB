@@ -1,14 +1,8 @@
--- CS4400: Introduction to Database Systems (Fall 2021)
--- Phase III: Stored Procedures & Views [v0] Tuesday, November 9, 2021 @ 12:00am EDT
--- Team 43
+
 -- Christian Wilson (cwilson345)
 -- Ruhan Ponnada (rponnada3)
 -- Arish Virani (avirani32)
 -- Eashan Sinha (esinha6)
--- Directions:
--- Please follow all instructions for Phase III as listed on Canvas.
--- Fill in the team number and names and GT usernames for all members above.
-
 
 -- ID: 1a
 -- Name: register_customer
